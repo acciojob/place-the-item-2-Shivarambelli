@@ -1,2 +1,42 @@
+.holder
+{
+	display:flex;
+	flex-wrap:wrap;
+	align-items:center;
+	justify-content:center;
+}
 
+.item-1
+{
+	height:100px;
+	width:100px;
+	background-color:red;
+	display:flex;
+	flex-direction:row;
+}
+.item-2
+{
+	height:100px;
+	width:100px;
+	background-color:blue;
+	display:flex;
+	flex-direction:row;
+}
+.item-3
+{
+	height:100px;
+	width:100px;
+	background-color:green;
+	display:flex;
+	flex-direction:row;
+}
+.item-4
+{
+	height:100px;
+	width:100px;
+	background-color:green;
+	display:flex;
+	flex-direction:row;
+}
+/* Your CSS Code here. */
 /* Your CSS Code here. */
